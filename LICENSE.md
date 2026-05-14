@@ -1,4 +1,4 @@
-# 
+# Get the ultimate DaVinci Resolve for macOS transition with DaVinci Resolve for macOS custom Transition: time-remapping & audio-cleanup. Featuring time-remapping and audio-cleanup,
 
 
 
